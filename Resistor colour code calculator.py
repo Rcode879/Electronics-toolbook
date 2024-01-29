@@ -81,7 +81,7 @@ def five_bands(col): #if a resistor is 6 band, the last 2 bands are tolerance an
 
    
 
-#main menue:
+#main menu:
 while True:
     while True:
         try:
